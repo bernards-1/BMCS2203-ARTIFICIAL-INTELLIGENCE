@@ -15,5 +15,3 @@ Files Included:
 1. pip install -r requirements.txt
 2. streamlit run scanobj.py
 
-Dataset link:
-https://drive.google.com/drive/folders/18HmySHSpgijwDTR8yp0pxQlthFIOlqPj?usp=sharing
