@@ -15,3 +15,4 @@ Files Included:
 1. pip install -r requirements.txt
 2. streamlit run scanobj.py
 
+Author: Bernard ,Kai Jian
