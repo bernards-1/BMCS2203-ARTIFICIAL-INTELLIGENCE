@@ -12,6 +12,7 @@ Files Included:
 - requirements.txt → Python dependencies for the project
 
 - Run:
+1.open Command Prompt / win+R type CMD
 1. pip install -r requirements.txt
 2. streamlit run scanobj.py
 
