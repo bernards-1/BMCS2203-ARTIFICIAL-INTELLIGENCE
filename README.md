@@ -1,4 +1,4 @@
-Project Title: YOLOv8 vs YOLOv11 Real-Time Detection Comparison
+Project Title: YOLO-based Object Detection for Stationery Items (Pencil,Eraser, Scale, and Sharpener).
 
 Description:
 This project uses Streamlit and OpenCV to compare object detection performance 
