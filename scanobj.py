@@ -45,7 +45,7 @@ st.sidebar.markdown("---")
 st.sidebar.markdown(f"**V8 Records:** {sum(len(v) for v in st.session_state.conf_v8_mem.values())}")
 st.sidebar.markdown(f"**V11 Records:** {sum(len(v) for v in st.session_state.conf_v11_mem.values())}")
 
-# 🔥 核心修正部分：移除了 Timeline 相关逻辑
+
 def get_excel_data():
     # 1. 准备汇总数据
     def prepare_summary_df(mem):
